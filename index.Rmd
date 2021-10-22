@@ -6,4 +6,10 @@ site: bookdown::bookdown_site
 ---
 
 # Executive Summary
+```{r}
+# Load in libraries
 
+library(prophet)
+library(forecast)
+
+```
